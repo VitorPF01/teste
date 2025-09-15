@@ -1,2 +1,0 @@
-Entrega inicial bootcamp-2 
-foi feito uma extenção para google a penar a parte de frontend como lecionado em aula, minha estenção está presente a parte de html,css e js tudo conectada para subir nas extenções da google sendo possível ser saudado ao interagir com a extensão, essa sendo a versão 1.0.0 a inicial de tudo de acordo com que vou avançando no curso vai melhorando a extenção e deixando ela mais util para uso diário.
